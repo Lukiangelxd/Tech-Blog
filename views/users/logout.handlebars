@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Logout</title>
+</head>
+<body>
+  <h2>Logout</h2>
+  <p>Are you sure you want to logout?</p>
+
+  <!-- Updated form with JavaScript-driven logout -->
+  <form id="logoutForm">
+    <button type="submit">Logout</button>
+  </form>
+
+  <script src="/public/logout.js"></script>
+
+  <script>
+    document.getElementById('logoutForm').addEventListener('submit', function(event) {
+      event.preventDefault(); // Prevent the form from submitting traditionally
+
+      // Handle logout action using JavaScript
+      fetch('/users/logout', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+      })
+      .then(response => {
+        if (response.ok) {
+          window.location.replace('/'); // Redirect to the homepage after successful logout
+        } else {
+          console.error('Failed to logout');
+        }
+      })
+      .catch(error => {
+        console.error('Error during logout:', error);
+      });
+    });
+  </script>
+</body>
+</html>

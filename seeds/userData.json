@@ -1,0 +1,34 @@
+[
+    {
+      "user_name": "codingNinja42",
+      "password": "securePassword42"
+    },
+    {
+      "user_name": "cookieMonster",
+      "password": "nomnomnom123"
+    },
+    {
+      "user_name": "debuggingWizard",
+      "password": "magicDebugKey"
+    },
+    {
+      "user_name": "caffeineCoder",
+      "password": "javaJavaJava"
+    },
+    {
+      "user_name": "codezilla9000",
+      "password": "roarOfCode"
+    },
+    {
+      "user_name": "keyboardMaestro",
+      "password": "qwerty123"
+    },
+    {
+      "user_name": "hackintoshMaster",
+      "password": "applePirate123"
+    },
+    {
+      "user_name": "bugWhisperer",
+      "password": "shhDontTellTheBugs"
+    }
+  ]

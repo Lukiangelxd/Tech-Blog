@@ -1,0 +1,183 @@
+[
+    {
+      "contents": "This is an insightful comment!",
+      "user_id": 1,
+      "post_id": 1
+    },
+    {
+      "contents": "Great explanation! MVC is fundamental.",
+      "user_id": 2,
+      "post_id": 1
+    },
+    {
+      "contents": "I had a similar experience. Thanks for sharing!",
+      "user_id": 3,
+      "post_id": 2
+    },
+    {
+      "contents": "Express routing can be tricky, but your explanation made it clearer.",
+      "user_id": 4,
+      "post_id": 3
+    },
+    {
+      "contents": "The use of Sequelize is a game-changer in database interactions.",
+      "user_id": 5,
+      "post_id": 4
+    },
+    {
+      "contents": "I appreciate the step-by-step breakdown of the authentication process.",
+      "user_id": 1,
+      "post_id": 5
+    },
+    {
+      "contents": "Understanding the role of dotenv in Node.js applications is crucial.",
+      "user_id": 2,
+      "post_id": 6
+    },
+    {
+      "contents": "Sequelize hooks are powerful tools for data manipulation.",
+      "user_id": 3,
+      "post_id": 7
+    },
+    {
+      "contents": "Your explanation of folder structure in MVC is clear and concise.",
+      "user_id": 4,
+      "post_id": 8
+    },
+    {
+      "contents": "Thank you for the detailed guide on deploying apps to Heroku.",
+      "user_id": 5,
+      "post_id": 9
+    },
+    {
+      "contents": "MVC architecture makes code organization so much better!",
+      "user_id": 1,
+      "post_id": 10
+    },
+    {
+      "contents": "I struggled with user authentication until I read this post. Thank you!",
+      "user_id": 2,
+      "post_id": 11
+    },
+    {
+      "contents": "Handlebars.js syntax is straightforward after going through your examples.",
+      "user_id": 3,
+      "post_id": 12
+    },
+    {
+      "contents": "The importance of environment variables is often underestimated. Thanks for highlighting!",
+      "user_id": 4,
+      "post_id": 13
+    },
+    {
+      "contents": "This project has really boosted my confidence in building full-stack applications.",
+      "user_id": 5,
+      "post_id": 14
+    },
+    {
+      "contents": "I was intimidated by Sequelize at first, but your explanation made it less daunting.",
+      "user_id": 1,
+      "post_id": 15
+    },
+    {
+      "contents": "The use of express-handlebars simplifies the templating process in Node.js.",
+      "user_id": 2,
+      "post_id": 16
+    },
+    {
+      "contents": "Your explanation of the JAWSDB_URL was a lifesaver when deploying to Heroku.",
+      "user_id": 3,
+      "post_id": 17
+    },
+    {
+      "contents": "I appreciate the emphasis on user experience in your application.",
+      "user_id": 4,
+      "post_id": 18
+    },
+    {
+      "contents": "Sequelize makes database interactions in Node.js much more enjoyable.",
+      "user_id": 5,
+      "post_id": 19
+    },
+    {
+      "contents": "Great job on the clean and polished user interface!",
+      "user_id": 1,
+      "post_id": 20
+    },
+    {
+      "contents": "Your README file is comprehensive and makes it easy to understand the project.",
+      "user_id": 2,
+      "post_id": 21
+    },
+    {
+      "contents": "I struggled with bcrypt until I found your explanation. Thank you!",
+      "user_id": 3,
+      "post_id": 22
+    },
+    {
+      "contents": "Express-session adds a layer of security to the authentication process. Good choice!",
+      "user_id": 4,
+      "post_id": 23
+    },
+    {
+      "contents": "The use of connect-session-sequelize enhances session management in the app.",
+      "user_id": 5,
+      "post_id": 24
+    },
+    {
+      "contents": "I had doubts about deploying to Heroku, but your guide made it straightforward.",
+      "user_id": 1,
+      "post_id": 25
+    },
+    {
+      "contents": "The application's user interface is intuitive and easy to navigate.",
+      "user_id": 2,
+      "post_id": 26
+    },
+    {
+      "contents": "Your repository follows best practices, making it easy to collaborate.",
+      "user_id": 3,
+      "post_id": 27
+    },
+    {
+      "contents": "I appreciate the detailed grading criteria. It sets clear expectations.",
+      "user_id": 4,
+      "post_id": 28
+    },
+    {
+      "contents": "I had no idea about Sequelize hooks until I read your post. Very informative!",
+      "user_id": 5,
+      "post_id": 29
+    },
+    {
+      "contents": "The application's deployment on Heroku is flawless. Great job!",
+      "user_id": 1,
+      "post_id": 30
+    },
+    {
+      "contents": "The use of dotenv for environment variables is a best practice. Well done!",
+      "user_id": 2,
+      "post_id": 31
+    },
+    {
+      "contents": "I learned a lot about MVC architecture from your project. Thanks for sharing!",
+      "user_id": 3,
+      "post_id": 32
+    },
+    {
+      "contents": "Your explanation of Sequelize sync is helpful. I feel more confident using it now.",
+      "user_id": 4,
+      "post_id": 33
+    },
+    {
+      "contents": "I appreciate the clean code and well-organized folder structure in your project.",
+      "user_id": 5,
+      "post_id": 34
+    },
+    {
+      "contents": "I was skeptical about bcrypt, but your post clarified its importance. Thank you!",
+      "user_id": 1,
+      "post_id": 35
+    }
+]
+      

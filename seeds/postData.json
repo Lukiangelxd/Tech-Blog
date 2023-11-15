@@ -1,0 +1,125 @@
+[
+    {
+      "title": "Understanding the MVC Pattern",
+      "contents": "The MVC pattern is crucial in software engineering for maintaining code organization and modularity. It separates an application into three interconnected components: Model, View, and Controller.",
+      "user_id": 1
+    },
+    {
+      "title": "Node.js Routing with Express",
+      "contents": "Express.js simplifies routing in Node.js applications. Learn how to define routes, handle different HTTP methods, and create a robust routing system for your Node.js projects.",
+      "topic": "Node.js",
+      "user_id": 2
+    },
+    {
+      "title": "Deep Dive into Sequelize Models",
+      "contents": "Sequelize models provide a powerful abstraction for interacting with databases. Explore the essentials of Sequelize models, including defining models, associations, and data validation.",
+      "user_id": 3
+    },
+    {
+      "title": "Authentication in Express.js",
+      "contents": "Secure your Express.js applications with user authentication. Implement user sign-up, login, and session management using the express-session and bcrypt packages.",
+      "topic": "Security",
+      "user_id": 4
+    },
+    {
+      "title": "Deploying Node.js Apps to Heroku",
+      "contents": "Learn the step-by-step process of deploying your Node.js applications to Heroku. Ensure a smooth deployment and make your app accessible to the world.",
+      "user_id": 5
+    },
+    {
+      "title": "Optimizing Sequelize Queries",
+      "contents": "Maximize the efficiency of your Sequelize queries. Explore advanced techniques to optimize database interactions, including eager loading and raw queries.",
+      "user_id": 1
+    },
+    {
+      "title": "Express-Handlebars: Templating Made Easy",
+      "contents": "Enhance your Express.js views with Handlebars.js. Dive into the features of express-handlebars to create dynamic and maintainable templates for your web applications.",
+      "user_id": 2
+    },
+    {
+      "title": "Environment Variables in Node.js",
+      "contents": "Unlock the power of environment variables in your Node.js projects. Explore the dotenv package to manage sensitive information and configuration settings.",
+      "topic": "Configuration",
+      "user_id": 3
+    },
+    {
+      "title": "Building a CMS with Sequelize",
+      "contents": "Construct a Content Management System (CMS) using Sequelize as the ORM. Implement features like creating, updating, and deleting posts, and user authentication.",
+      "user_id": 4
+    },
+    {
+      "title": "Handle User Sessions with Express-Session",
+      "contents": "Ensure secure user sessions in your Express.js applications. Implement express-session to manage user sessions and provide a seamless experience.",
+      "user_id": 5
+    },
+    {
+      "title": "Mastering Sequelize Hooks",
+      "contents": "Sequelize hooks are powerful tools for executing code at specific points in the database lifecycle. Learn how to use hooks for various scenarios, from data validation to encryption.",
+      "user_id": 1
+    },
+    {
+      "title": "Heroku Deployment Best Practices",
+      "contents": "Follow best practices for deploying your applications on Heroku. Ensure a smooth deployment process and address common challenges faced during the deployment.",
+      "topic": "Deployment",
+      "user_id": 2
+    },
+    {
+      "title": "Building a Clean User Interface",
+      "contents": "Craft an intuitive and polished user interface for your web applications. Explore design principles and tips for creating an engaging user experience.",
+      "user_id": 3
+    },
+    {
+      "title": "README File Essentials",
+      "contents": "Create a comprehensive README file for your projects. Learn about the essential elements to include, such as project description, installation instructions, and usage examples.",
+      "topic": "Documentation",
+      "user_id": 4
+    },
+    {
+      "title": "Hashing Passwords with Bcrypt",
+      "contents": "Enhance the security of your applications by hashing passwords with bcrypt. Understand the importance of password hashing and implement it in your user authentication system.",
+      "user_id": 5
+    },
+    {
+      "title": "Express-Session for Secure Authentication",
+      "contents": "Implement secure authentication with express-session. Learn how to manage user sessions, handle session expiration, and enhance the overall security of your Express.js applications.",
+      "user_id": 1
+    },
+    {
+      "title": "Advanced Sequelize Techniques",
+      "contents": "Take your Sequelize skills to the next level. Explore advanced techniques, including composite primary keys, transaction management, and handling complex associations.",
+      "topic": "Database",
+      "user_id": 2
+    },
+    {
+      "title": "Responsive Design with Bootstrap",
+      "contents": "Create responsive and mobile-friendly web applications using Bootstrap. Explore the features of Bootstrap for designing modern and visually appealing interfaces.",
+      "user_id": 3
+    },
+    {
+      "title": "User Authentication Strategies",
+      "contents": "Dive into various user authentication strategies for Express.js applications. Compare approaches like JWT (JSON Web Tokens) and session-based authentication.",
+      "topic": "Security",
+      "user_id": 4
+    },
+    {
+      "title": "Testing Node.js Applications",
+      "contents": "Ensure the reliability of your Node.js applications through testing. Explore different testing approaches, tools, and best practices for writing effective tests.",
+      "user_id": 5
+    },
+    {
+      "title": "Handling Sessions with Connect-Session-Sequelize",
+      "contents": "Optimize session management in your Express.js applications with connect-session-sequelize. Learn how to store sessions in a Sequelize-powered database for improved scalability.",
+      "user_id": 1
+    },
+    {
+      "title": "Creating a Seamless User Experience",
+      "contents": "Focus on user experience (UX) in your web applications. Implement design principles, navigation structures, and interactive elements to create a seamless and enjoyable user journey.",
+      "user_id": 2
+    },
+    {
+      "title": "Best Practices for Repository Structure",
+      "contents": "Organize your project repository effectively. Follow best practices for file structure, naming conventions, and code organization to enhance collaboration and maintainability.",
+      "topic": "Development",
+      "user_id": 3
+    }
+  ]
